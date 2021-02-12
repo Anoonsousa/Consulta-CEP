@@ -9,7 +9,7 @@ Como rodar esse script na sua máquina:
 
     Baixar o projeto na sua máquia.
 
-git clone 
+git clone https://github.com/Anoonsousa/Consulta-CEP.git
 
     Entrar na pasta do projeto.
 
